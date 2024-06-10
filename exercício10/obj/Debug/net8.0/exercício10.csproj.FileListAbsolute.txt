@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\bin\Debug\net8.0\exercício10.exe
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\bin\Debug\net8.0\exercício10.deps.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\bin\Debug\net8.0\exercício10.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\bin\Debug\net8.0\exercício10.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\bin\Debug\net8.0\exercício10.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\refint\exercício10.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\exercício10.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício10\obj\Debug\net8.0\ref\exercício10.dll

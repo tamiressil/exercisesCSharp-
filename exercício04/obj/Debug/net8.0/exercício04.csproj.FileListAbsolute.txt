@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\bin\Debug\net8.0\exercício04.exe
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\bin\Debug\net8.0\exercício04.deps.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\bin\Debug\net8.0\exercício04.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\bin\Debug\net8.0\exercício04.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\bin\Debug\net8.0\exercício04.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\refint\exercício04.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\exercício04.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício04\obj\Debug\net8.0\ref\exercício04.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\bin\Debug\net8.0\exercício13.exe
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\bin\Debug\net8.0\exercício13.deps.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\bin\Debug\net8.0\exercício13.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\bin\Debug\net8.0\exercício13.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\bin\Debug\net8.0\exercício13.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\refint\exercício13.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\exercício13.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício13\obj\Debug\net8.0\ref\exercício13.dll

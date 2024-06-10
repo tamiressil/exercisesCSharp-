@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\bin\Debug\net8.0\exercício07.exe
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\bin\Debug\net8.0\exercício07.deps.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\bin\Debug\net8.0\exercício07.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\bin\Debug\net8.0\exercício07.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\bin\Debug\net8.0\exercício07.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\refint\exercício07.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\exercício07.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exercício07\obj\Debug\net8.0\ref\exercício07.dll

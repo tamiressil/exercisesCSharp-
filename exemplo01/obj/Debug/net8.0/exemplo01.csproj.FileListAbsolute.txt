@@ -1,0 +1,4 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exemplo01\obj\Debug\net8.0\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exemplo01\obj\Debug\net8.0\exemplo01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exemplo01\obj\Debug\net8.0\exemplo01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exemplo01\obj\Debug\net8.0\exemplo01.csproj.CoreCompileInputs.cache

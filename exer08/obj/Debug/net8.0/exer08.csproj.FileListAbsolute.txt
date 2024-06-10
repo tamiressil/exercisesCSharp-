@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\bin\Debug\net8.0\exer08.exe
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\bin\Debug\net8.0\exer08.deps.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\bin\Debug\net8.0\exer08.runtimeconfig.json
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\bin\Debug\net8.0\exer08.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\bin\Debug\net8.0\exer08.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\refint\exer08.dll
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.pdb
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\exer08.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Proa Dot.Net\exer08\obj\Debug\net8.0\ref\exer08.dll
